@@ -1,7 +1,8 @@
 {
-  "version": "4.1",
+  "version": "4.2",
   "changes": [
-    "Исправлена работа с файлами на Android 14",
-    "Добавлены 6 тем оформления"
-  ]
+    "Новая функция 1",
+    "Новая функция 2"
+  ],
+  "file": "https://raw.githubusercontent.com/sergeibahuser/mcalc/refs/heads/main/app-release.apk"
 }
