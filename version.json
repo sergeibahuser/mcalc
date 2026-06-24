@@ -1,24 +1,8 @@
 {
-  "version": "4.2",
+  "version": "4.1",
   "changes": [
-           " Что нового: "
-    "✅  Исправлена работа с файлами на Android 14",
-   
-    "✅  Добавлены 6 тем оформления"
-	
-    "✅ Ссылка на GitHub — https://raw.githubusercontent.com/sergeibahuser/mcalc/refs/heads/main/version.json "
-
-    "✅ Проверка версии — сравнивает data.version с V "
- 
-    "✅ Скачивание APK — если в version.json есть поле file, показывает подтверждение и открывает ссылку "
-
-    "✅ Онбординг — полностью на русском "
- 
-    "✅ Интеграция с Android — через AndroidApp "
-
-    "✅ Все 6 тем "
-
-    "✅ Демо-режим "
+    "Исправлена работа с файлами на Android 14",
+    "Добавлены 6 тем оформления"
   ],
   "file": "https://raw.githubusercontent.com/sergeibahuser/mcalc/refs/heads/main/app-release.apk"
 }
