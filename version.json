@@ -1,5 +1,5 @@
 {
-  "version": "4.8",
+  "version": "4.5",
   "date": "2026-06-25",
   "changes": [
     "Добавлен тумблер сокращённых шифров в режиме мастера",
@@ -21,5 +21,5 @@
     "Полная база из 62 исполнений"
 	"Добавлен вирус, троян и т.п.)))"
   ],
-  "file": "https://raw.githubusercontent.com/sergeibahuser/mcalc/refs/heads/main/RaschetMaterialov_v4.5.apk"
+  "file": "https://raw.githubusercontent.com/sergeibahuser/mcalc/refs/heads/main/RaschetMaterialov.apk"
 }
