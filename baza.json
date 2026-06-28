@@ -1,5 +1,5 @@
 {
-  "version": "4.9",
+  "version": "4.9.1",
   "date": "2026-06-25",
   "products": [
     {"name":"401К16-00","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"400","code":"УР0401К1600001-00","qty":2,"unit":"шт"},{"thickness":"40","length":"700","code":"УР0463Б2600007-00","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":""},{"partType":"bok","suffix":"К16-00","qty":2,"unit":"шт","thickness":"","length":""},{"partType":"torec","suffix":"К16-00","qty":2,"unit":"шт","thickness":"","length":""},{"partType":"kryshka","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":""}]},
