@@ -1,76 +1,6009 @@
 {
-  "version": "5.4",
-  "date": "2026-08-19T00:00:00.000Z",
+  "version": "5.5",
+  "date": "2026-08-25T09:28:45.932Z",
   "products": [
-    {"name":"401К16-00","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"400","code":"УР0401К1600001-00","qty":2,"unit":"шт"},{"thickness":"40","length":"700","code":"УР0463Б2600007-00","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010"},{"partType":"bok","suffix":"К16-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020"},{"partType":"torec","suffix":"К16-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030"},{"partType":"kryshka","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040"}]},
-    {"name":"401К16-01","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"880","code":"УР0463Б2600001-01","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"400","code":"УР0401К1600001-00","qty":2,"unit":"шт"},{"thickness":"40","length":"830","code":"УР0463Б2600007-01","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-01"},{"partType":"bok","suffix":"К16-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020"},{"partType":"torec","suffix":"К16-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-01"},{"partType":"kryshka","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-01"}]},
-    {"name":"401К16-02","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1060","code":"УР0463Б2600001-02","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"400","code":"УР0401К1600001-00","qty":2,"unit":"шт"},{"thickness":"40","length":"1010","code":"УР0463Б2600007-02","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-02"},{"partType":"bok","suffix":"К16-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020"},{"partType":"torec","suffix":"К16-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-02"},{"partType":"kryshka","suffix":"Б26-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-02"}]},
-    {"name":"401К16-03","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1190","code":"УР0463Б2600001-07","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"400","code":"УР0401К1600001-00","qty":2,"unit":"шт"},{"thickness":"40","length":"1140","code":"УР0463Б2600007-03","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-03"},{"partType":"bok","suffix":"К16-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020"},{"partType":"torec","suffix":"К16-03","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-03"},{"partType":"kryshka","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-03"}]},
-    {"name":"401К16-04","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1370","code":"УР0463Б2600001-10","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"400","code":"УР0401К1600001-00","qty":2,"unit":"шт"},{"thickness":"40","length":"1320","code":"УР0463Б2600007-05","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-04"},{"partType":"bok","suffix":"К16-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020"},{"partType":"torec","suffix":"К16-04","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-04"},{"partType":"kryshka","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-04"}]},
-    {"name":"401К16-05","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"500","code":"УР0401К1600001-01","qty":2,"unit":"шт"},{"thickness":"40","length":"700","code":"УР0463Б2600007-00","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010"},{"partType":"bok","suffix":"К16-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-01"},{"partType":"torec","suffix":"К16-05","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-05"},{"partType":"kryshka","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040"}]},
-    {"name":"401К16-06","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"880","code":"УР0463Б2600001-01","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"500","code":"УР0401К1600001-01","qty":2,"unit":"шт"},{"thickness":"40","length":"830","code":"УР0463Б2600007-01","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-01"},{"partType":"bok","suffix":"К16-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-01"},{"partType":"torec","suffix":"К16-06","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-06"},{"partType":"kryshka","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-01"}]},
-    {"name":"401К16-07","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1060","code":"УР0463Б2600001-02","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"500","code":"УР0401К1600001-01","qty":2,"unit":"шт"},{"thickness":"40","length":"1010","code":"УР0463Б2600007-02","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-02"},{"partType":"bok","suffix":"К16-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-01"},{"partType":"torec","suffix":"К16-07","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-07"},{"partType":"kryshka","suffix":"Б26-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-02"}]},
-    {"name":"401К16-08","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1190","code":"УР0463Б2600001-07","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"500","code":"УР0401К1600001-01","qty":2,"unit":"шт"},{"thickness":"40","length":"1140","code":"УР0463Б2600007-03","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-03"},{"partType":"bok","suffix":"К16-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-01"},{"partType":"torec","suffix":"К16-08","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-08"},{"partType":"kryshka","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-03"}]},
-    {"name":"401К16-09","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1370","code":"УР0463Б2600001-10","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"500","code":"УР0401К1600001-01","qty":2,"unit":"шт"},{"thickness":"40","length":"1320","code":"УР0463Б2600007-05","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-04"},{"partType":"bok","suffix":"К16-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-01"},{"partType":"torec","suffix":"К16-09","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-09"},{"partType":"kryshka","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-04"}]},
-    {"name":"401К16-10","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"600","code":"УР0401К1600001-02","qty":2,"unit":"шт"},{"thickness":"40","length":"700","code":"УР0463Б2600007-00","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010"},{"partType":"bok","suffix":"К16-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-02"},{"partType":"torec","suffix":"К16-10","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-10"},{"partType":"kryshka","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040"}]},
-    {"name":"401К16-11","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"880","code":"УР0463Б2600001-01","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"600","code":"УР0401К1600001-02","qty":2,"unit":"шт"},{"thickness":"40","length":"830","code":"УР0463Б2600007-01","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-01"},{"partType":"bok","suffix":"К16-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-02"},{"partType":"torec","suffix":"К16-11","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-11"},{"partType":"kryshka","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-01"}]},
-    {"name":"401К16-12","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1060","code":"УР0463Б2600001-02","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"600","code":"УР0401К1600001-02","qty":2,"unit":"шт"},{"thickness":"40","length":"1010","code":"УР0463Б2600007-02","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-02"},{"partType":"bok","suffix":"К16-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-02"},{"partType":"torec","suffix":"К16-12","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-12"},{"partType":"kryshka","suffix":"Б26-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-02"}]},
-    {"name":"401К16-13","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1190","code":"УР0463Б2600001-07","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"600","code":"УР0401К1600001-02","qty":2,"unit":"шт"},{"thickness":"40","length":"1140","code":"УР0463Б2600007-03","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-03"},{"partType":"bok","suffix":"К16-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-02"},{"partType":"torec","suffix":"К16-13","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-13"},{"partType":"kryshka","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-03"}]},
-    {"name":"401К16-14","categories":["c2"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1370","code":"УР0463Б2600001-10","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"600","code":"УР0401К1600001-02","qty":2,"unit":"шт"},{"thickness":"40","length":"1320","code":"УР0463Б2600007-05","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-04"},{"partType":"bok","suffix":"К16-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-02"},{"partType":"torec","suffix":"К16-14","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-14"},{"partType":"kryshka","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-04"}]},
-    {"name":"401К16-15","categories":["c2"],"materials":[{"thickness":"25","length":"400","code":"УР0463Б2600001-09","qty":3,"unit":"шт"},{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0401К1600001-03","qty":2,"unit":"шт"},{"thickness":"40","length":"380","code":"УР0463Б2600005-00","qty":2,"unit":"шт"},{"thickness":"40","length":"410","code":"УР0463Б2600005-01","qty":2,"unit":"шт"},{"thickness":"40","length":"460","code":"УР0463Б2600005-02","qty":2,"unit":"шт"},{"thickness":"40","length":"510","code":"УР0463Б2600005-03","qty":2,"unit":"шт"},{"thickness":"40","length":"560","code":"УР0463Б2600005-04","qty":2,"unit":"шт"},{"thickness":"40","length":"610","code":"УР0463Б2600005-05","qty":2,"unit":"шт"},{"thickness":"40","length":"660","code":"УР0463Б2600005-06","qty":2,"unit":"шт"},{"thickness":"40","length":"700","code":"УР0463Б2600007-00","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010"},{"partType":"bok","suffix":"К16-50","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600050"},{"partType":"torec","suffix":"К16-60","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600060"},{"partType":"kryshka","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040"}]},
-    {"name":"401К46-00","categories":["c4"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":13,"unit":"шт"},{"thickness":"40","length":"495","qty":2,"unit":"шт"},{"partType":"dno","suffix":"К46-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0401К4600010"},{"partType":"bok","suffix":"К16-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-01"},{"partType":"torec","suffix":"К16-05","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-05"},{"partType":"kryshka","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040"}]},
-    {"name":"401К46-01","categories":["c4"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":3,"unit":"шт"},{"thickness":"25","length":"880","code":"УР0463Б2600001-01","qty":10,"unit":"шт"},{"thickness":"40","length":"595","qty":2,"unit":"шт"},{"partType":"dno","suffix":"К46-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0401К4600010-01"},{"partType":"bok","suffix":"К16-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-02"},{"partType":"torec","suffix":"К16-11","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-11"},{"partType":"kryshka","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-01"}]},
-    {"name":"401К46-02","categories":["c4"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":3,"unit":"шт"},{"thickness":"25","length":"880","code":"УР0463Б2600001-01","qty":10,"unit":"шт"},{"thickness":"40","length":"600","code":"УР0401К1600001-02","qty":2,"unit":"шт"},{"partType":"dno","suffix":"К46-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0401К4600010-01"},{"partType":"bok","suffix":"К16-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-02"},{"partType":"torec","suffix":"К16-11","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-11"},{"partType":"kryshka","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-01"}]},
-    {"name":"401К46-03","categories":["c4"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":3,"unit":"шт"},{"thickness":"25","length":"1370","code":"УР0463Б2600001-10","qty":12,"unit":"шт"},{"partType":"dno","suffix":"К46-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0401К4600010-02"},{"partType":"bok","suffix":"К16-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020"},{"partType":"torec","suffix":"К16-04","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-04"},{"partType":"kryshka","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-04"}]},
-    {"name":"401К46-04","categories":["c4"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":3,"unit":"шт"},{"thickness":"25","length":"1370","code":"УР0463Б2600001-10","qty":12,"unit":"шт"},{"partType":"dno","suffix":"К46-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0401К4600010-02"},{"partType":"bok","suffix":"К16-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600020-01"},{"partType":"torec","suffix":"К16-09","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0401К1600030-09"},{"partType":"kryshka","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-04"}]},
-    {"name":"463Б26-00","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"505","code":"УР0463Б2600003-00","qty":2,"unit":"шт"},{"thickness":"40","length":"700","code":"УР0463Б2600007-00","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010"},{"partType":"bok","suffix":"Б26-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020"},{"partType":"torec","suffix":"Б26-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030"},{"partType":"kryshka","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040"}]},
-    {"name":"463Б26-01","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"880","code":"УР0463Б2600001-01","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"505","code":"УР0463Б2600003-00","qty":2,"unit":"шт"},{"thickness":"40","length":"830","code":"УР0463Б2600007-01","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-01"},{"partType":"bok","suffix":"Б26-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020"},{"partType":"torec","suffix":"Б26-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-01"},{"partType":"kryshka","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-01"}]},
-    {"name":"463Б26-02","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1060","code":"УР0463Б2600001-02","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"505","code":"УР0463Б2600003-00","qty":2,"unit":"шт"},{"thickness":"40","length":"1010","code":"УР0463Б2600007-02","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-02"},{"partType":"bok","suffix":"Б26-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020"},{"partType":"torec","suffix":"Б26-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-02"},{"partType":"kryshka","suffix":"Б26-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-02"}]},
-    {"name":"463Б26-03","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1190","code":"УР0463Б2600001-07","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"505","code":"УР0463Б2600003-00","qty":2,"unit":"шт"},{"thickness":"40","length":"1140","code":"УР0463Б2600007-03","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-03"},{"partType":"bok","suffix":"Б26-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020"},{"partType":"torec","suffix":"Б26-03","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-03"},{"partType":"kryshka","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-03"}]},
-    {"name":"463Б26-04","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1370","code":"УР0463Б2600001-10","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"505","code":"УР0463Б2600003-00","qty":2,"unit":"шт"},{"thickness":"40","length":"1320","code":"УР0463Б2600007-05","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-04"},{"partType":"bok","suffix":"Б26-00","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020"},{"partType":"torec","suffix":"Б26-04","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-04"},{"partType":"kryshka","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-04"}]},
-    {"name":"463Б26-05","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"605","code":"УР0463Б2600003-01","qty":2,"unit":"шт"},{"thickness":"40","length":"700","code":"УР0463Б2600007-00","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010"},{"partType":"bok","suffix":"Б26-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020-01"},{"partType":"torec","suffix":"Б26-05","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-05"},{"partType":"kryshka","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040"}]},
-    {"name":"463Б26-06","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"880","code":"УР0463Б2600001-01","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"605","code":"УР0463Б2600003-01","qty":2,"unit":"шт"},{"thickness":"40","length":"830","code":"УР0463Б2600007-01","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-01"},{"partType":"bok","suffix":"Б26-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020-01"},{"partType":"torec","suffix":"Б26-06","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-06"},{"partType":"kryshka","suffix":"Б26-01","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-01"}]},
-    {"name":"463Б26-07","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1060","code":"УР0463Б2600001-02","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"605","code":"УР0463Б2600003-01","qty":2,"unit":"шт"},{"thickness":"40","length":"1010","code":"УР0463Б2600007-02","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-02"},{"partType":"bok","suffix":"Б26-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020-01"},{"partType":"torec","suffix":"Б26-07","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-07"},{"partType":"kryshka","suffix":"Б26-02","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-02"}]},
-    {"name":"463Б26-08","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1190","code":"УР0463Б2600001-07","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"605","code":"УР0463Б2600003-01","qty":2,"unit":"шт"},{"thickness":"40","length":"1140","code":"УР0463Б2600007-03","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-03"},{"partType":"bok","suffix":"Б26-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020-01"},{"partType":"torec","suffix":"Б26-08","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-08"},{"partType":"kryshka","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-03"}]},
-    {"name":"463Б26-09","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1370","code":"УР0463Б2600001-10","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"605","code":"УР0463Б2600003-01","qty":2,"unit":"шт"},{"thickness":"40","length":"1320","code":"УР0463Б2600007-05","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-04"},{"partType":"bok","suffix":"Б26-01","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020-01"},{"partType":"torec","suffix":"Б26-09","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-09"},{"partType":"kryshka","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-04"}]},
-    {"name":"463Б26-10","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1190","code":"УР0463Б2600001-07","qty":10,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"705","code":"УР0463Б2600003-02","qty":2,"unit":"шт"},{"thickness":"40","length":"1140","code":"УР0463Б2600007-03","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-03"},{"partType":"bok","suffix":"Б26-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020-02"},{"partType":"torec","suffix":"Б26-13","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-13"},{"partType":"kryshka","suffix":"Б26-03","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-03"}]},
-    {"name":"463Б26-11","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":2,"unit":"шт"},{"thickness":"25","length":"1370","code":"УР0463Б2600001-10","qty":12,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"705","code":"УР0463Б2600003-02","qty":2,"unit":"шт"},{"thickness":"40","length":"1320","code":"УР0463Б2600007-05","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010-04"},{"partType":"bok","suffix":"Б26-02","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600020-02"},{"partType":"torec","suffix":"Б26-14","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600030-14"},{"partType":"kryshka","suffix":"Б26-04","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040-04"}]},
-    {"name":"463Б26-12","categories":["c1"],"materials":[{"thickness":"25","length":"750","code":"УР0463Б2600001-00","qty":5,"unit":"шт"},{"thickness":"40","length":"200","code":"УР0463Б2600003-03","qty":2,"unit":"шт"},{"thickness":"40","length":"380","code":"УР0463Б2600005-00","qty":2,"unit":"шт"},{"thickness":"40","length":"410","code":"УР0463Б2600005-01","qty":2,"unit":"шт"},{"thickness":"40","length":"460","code":"УР0463Б2600005-02","qty":2,"unit":"шт"},{"thickness":"40","length":"510","code":"УР0463Б2600005-03","qty":2,"unit":"шт"},{"thickness":"40","length":"560","code":"УР0463Б2600005-04","qty":2,"unit":"шт"},{"thickness":"40","length":"700","code":"УР0463Б2600007-00","qty":2,"unit":"шт"},{"partType":"dno","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600010"},{"partType":"bok","suffix":"Б26-5002","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600050-02"},{"partType":"torec","suffix":"Б26-6002","qty":2,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600060-02"},{"partType":"kryshka","suffix":"Б26-00","qty":1,"unit":"шт","thickness":"","length":"","code":"УР0463Б2600040"}]},
-    {"name":"КГ-00","categories":["c3"],"materials":[{"thickness":"25","length":"1220","code":"УР0621Б3605002","qty":3,"unit":"шт"},{"thickness":"40","length":"1800","code":"УР1010КГ0300004","qty":3,"unit":"шт"},{"thickness":"40","length":"2330","code":"УР1010КГ0300002","qty":1,"unit":"шт"}]},
-    {"name":"КГ-01","categories":["c3"],"materials":[{"thickness":"25","length":"1220","code":"УР0621Б3605002","qty":3,"unit":"шт"},{"thickness":"40","length":"1800","code":"УР1010КГ0300004","qty":3,"unit":"шт"},{"thickness":"40","length":"2600","code":"УР1010КГ0300002-01","qty":1,"unit":"шт"}]},
-    {"name":"621Б3601-00","categories":["c5"],"materials":[{"thickness":"25","length":"680","qty":6,"unit":"шт"}]},
-    {"name":"621Б3601-01","categories":["c5"],"materials":[{"thickness":"25","length":"900","qty":6,"unit":"шт"}]},
-    {"name":"621Б3601-02","categories":["c5"],"materials":[{"thickness":"25","length":"1120","qty":6,"unit":"шт"}]},
-    {"name":"621Б3601-03","categories":["c5"],"materials":[{"thickness":"25","length":"420","qty":5,"unit":"шт"}]},
-    {"name":"621Б3601-04","categories":["c5"],"materials":[{"thickness":"25","length":"680","qty":6,"unit":"шт"}]},
-    {"name":"621Б3601-05","categories":["c5"],"materials":[{"thickness":"25","length":"900","qty":6,"unit":"шт"}]},
-    {"name":"621Б3601-06","categories":["c5"],"materials":[{"thickness":"25","length":"1120","qty":6,"unit":"шт"}]},
-    {"name":"621Б3601-07","categories":["c5"],"materials":[{"thickness":"25","length":"420","qty":5,"unit":"шт"}]},
-    {"name":"621Б3605-00","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":3,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-01","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":3,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-02","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":3,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-03","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":3,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-04","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":3,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-05","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":3,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-06","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":3,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-07","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":3,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-08","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":3,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-09","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":30,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-10","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":27,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-11","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":24,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-12","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":21,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-13","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":18,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-14","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":15,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-15","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":12,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-16","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":9,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]},
-    {"name":"621Б3605-17","categories":["c6"],"materials":[{"thickness":"25","length":"1220","qty":6,"unit":"шт"},{"thickness":"25","length":"1250","qty":3,"unit":"шт"}]}
-],
-"categories": [
-    {"id":"c1","name":"463Б26","color":"#ef4444"},
-    {"id":"c2","name":"401К16","color":"#38608f"},
-    {"id":"c3","name":"КГ","color":"#00bcd4"},
-    {"id":"c4","name":"401К46","color":"#e67e22"},
-    {"id":"c5","name":"621Б3601","color":"#8e44ad"},
-    {"id":"c6","name":"621Б3605","color":"#2ecc71"}
-]
+    {
+      "name": "401К16-00",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "400",
+          "code": "УР0401К1600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "700",
+          "code": "УР0463Б2600007-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040"
+        }
+      ]
+    },
+    {
+      "name": "401К16-01",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "880",
+          "code": "УР0463Б2600001-01",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "400",
+          "code": "УР0401К1600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "830",
+          "code": "УР0463Б2600007-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-01"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-01"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-01"
+        }
+      ]
+    },
+    {
+      "name": "401К16-02",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1060",
+          "code": "УР0463Б2600001-02",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "400",
+          "code": "УР0401К1600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1010",
+          "code": "УР0463Б2600007-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-02"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-02"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-02"
+        }
+      ]
+    },
+    {
+      "name": "401К16-03",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1190",
+          "code": "УР0463Б2600001-07",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "400",
+          "code": "УР0401К1600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1140",
+          "code": "УР0463Б2600007-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-03"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-03",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-03"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-03"
+        }
+      ]
+    },
+    {
+      "name": "401К16-04",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1370",
+          "code": "УР0463Б2600001-10",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "400",
+          "code": "УР0401К1600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1320",
+          "code": "УР0463Б2600007-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-04"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-04",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-04"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-04"
+        }
+      ]
+    },
+    {
+      "name": "401К16-05",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "500",
+          "code": "УР0401К1600001-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "700",
+          "code": "УР0463Б2600007-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-05",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-05"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040"
+        }
+      ]
+    },
+    {
+      "name": "401К16-06",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "880",
+          "code": "УР0463Б2600001-01",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "500",
+          "code": "УР0401К1600001-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "830",
+          "code": "УР0463Б2600007-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-01"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-06",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-06"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-01"
+        }
+      ]
+    },
+    {
+      "name": "401К16-07",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1060",
+          "code": "УР0463Б2600001-02",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "500",
+          "code": "УР0401К1600001-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1010",
+          "code": "УР0463Б2600007-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-02"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-07",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-07"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-02"
+        }
+      ]
+    },
+    {
+      "name": "401К16-08",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1190",
+          "code": "УР0463Б2600001-07",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "500",
+          "code": "УР0401К1600001-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1140",
+          "code": "УР0463Б2600007-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-03"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-08",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-08"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-03"
+        }
+      ]
+    },
+    {
+      "name": "401К16-09",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1370",
+          "code": "УР0463Б2600001-10",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "500",
+          "code": "УР0401К1600001-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1320",
+          "code": "УР0463Б2600007-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-04"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-09",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-09"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-04"
+        }
+      ]
+    },
+    {
+      "name": "401К16-10",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "600",
+          "code": "УР0401К1600001-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "700",
+          "code": "УР0463Б2600007-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-02"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-10",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-10"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040"
+        }
+      ]
+    },
+    {
+      "name": "401К16-11",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "880",
+          "code": "УР0463Б2600001-01",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "600",
+          "code": "УР0401К1600001-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "830",
+          "code": "УР0463Б2600007-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-01"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-02"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-11",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-11"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-01"
+        }
+      ]
+    },
+    {
+      "name": "401К16-12",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1060",
+          "code": "УР0463Б2600001-02",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "600",
+          "code": "УР0401К1600001-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1010",
+          "code": "УР0463Б2600007-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-02"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-02"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-12",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-12"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-02"
+        }
+      ]
+    },
+    {
+      "name": "401К16-13",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1190",
+          "code": "УР0463Б2600001-07",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "600",
+          "code": "УР0401К1600001-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1140",
+          "code": "УР0463Б2600007-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-03"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-02"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-13",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-13"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-03"
+        }
+      ]
+    },
+    {
+      "name": "401К16-14",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1370",
+          "code": "УР0463Б2600001-10",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "600",
+          "code": "УР0401К1600001-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1320",
+          "code": "УР0463Б2600007-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-04"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-02"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-14",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-14"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-04"
+        }
+      ]
+    },
+    {
+      "name": "401К16-15",
+      "categories": [
+        "c2"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "400",
+          "code": "УР0463Б2600001-09",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0401К1600001-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "380",
+          "code": "УР0463Б2600005-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "410",
+          "code": "УР0463Б2600005-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "460",
+          "code": "УР0463Б2600005-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "510",
+          "code": "УР0463Б2600005-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "560",
+          "code": "УР0463Б2600005-04",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "610",
+          "code": "УР0463Б2600005-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "660",
+          "code": "УР0463Б2600005-06",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "700",
+          "code": "УР0463Б2600007-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-50",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600050"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-60",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600060"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040"
+        }
+      ]
+    },
+    {
+      "name": "401К46-00",
+      "categories": [
+        "c4"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 13,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "495",
+          "qty": 2,
+          "unit": "шт",
+          "code": "УР0401К1600001-01",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "К46-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К4600010"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-05",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-05"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040"
+        }
+      ]
+    },
+    {
+      "name": "401К46-01",
+      "categories": [
+        "c4"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "880",
+          "code": "УР0463Б2600001-01",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "595",
+          "qty": 2,
+          "unit": "шт",
+          "code": "УР0401К1600001-02",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "К46-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К4600010-01"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-02"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-11",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-11"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-01"
+        }
+      ]
+    },
+    {
+      "name": "401К46-02",
+      "categories": [
+        "c4"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "880",
+          "code": "УР0463Б2600001-01",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "595",
+          "code": "УР0401К1600001-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "К46-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К4600010-01"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-02"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-11",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-11"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-01"
+        }
+      ]
+    },
+    {
+      "name": "401К46-03",
+      "categories": [
+        "c4"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1370",
+          "code": "УР0463Б2600001-10",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "К46-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К4600010-02"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-04",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-04"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-04"
+        }
+      ]
+    },
+    {
+      "name": "401К46-04",
+      "categories": [
+        "c4"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1370",
+          "code": "УР0463Б2600001-10",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "К46-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К4600010-02"
+        },
+        {
+          "partType": "bok",
+          "suffix": "К16-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "К16-09",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0401К1600030-09"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-04"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-00",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "505",
+          "code": "УР0463Б2600003-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "700",
+          "code": "УР0463Б2600007-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-01",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "880",
+          "code": "УР0463Б2600001-01",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "505",
+          "code": "УР0463Б2600003-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "830",
+          "code": "УР0463Б2600007-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-01"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-01"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-01"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-02",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1060",
+          "code": "УР0463Б2600001-02",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "505",
+          "code": "УР0463Б2600003-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1010",
+          "code": "УР0463Б2600007-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-02"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-02"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-02"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-03",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1190",
+          "code": "УР0463Б2600001-07",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "505",
+          "code": "УР0463Б2600003-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1140",
+          "code": "УР0463Б2600007-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-03"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-03",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-03"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-03"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-04",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1370",
+          "code": "УР0463Б2600001-10",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "505",
+          "code": "УР0463Б2600003-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1320",
+          "code": "УР0463Б2600007-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-04"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-00",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-04",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-04"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-04"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-05",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "605",
+          "code": "УР0463Б2600003-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "700",
+          "code": "УР0463Б2600007-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-05",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-05"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-06",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "880",
+          "code": "УР0463Б2600001-01",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "605",
+          "code": "УР0463Б2600003-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "830",
+          "code": "УР0463Б2600007-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-01"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-06",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-06"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-01",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-01"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-07",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1060",
+          "code": "УР0463Б2600001-02",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "605",
+          "code": "УР0463Б2600003-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1010",
+          "code": "УР0463Б2600007-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-02"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-07",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-07"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-02",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-02"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-08",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1190",
+          "code": "УР0463Б2600001-07",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "605",
+          "code": "УР0463Б2600003-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1140",
+          "code": "УР0463Б2600007-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-03"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-08",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-08"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-03"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-09",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1370",
+          "code": "УР0463Б2600001-10",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "605",
+          "code": "УР0463Б2600003-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1320",
+          "code": "УР0463Б2600007-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-04"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-01",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020-01"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-09",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-09"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-04"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-10",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1190",
+          "code": "УР0463Б2600001-07",
+          "qty": 10,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "705",
+          "code": "УР0463Б2600003-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1140",
+          "code": "УР0463Б2600007-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-03"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020-02"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-13",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-13"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-03",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-03"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-11",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1370",
+          "code": "УР0463Б2600001-10",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "705",
+          "code": "УР0463Б2600003-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1320",
+          "code": "УР0463Б2600007-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010-04"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-02",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600020-02"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-14",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600030-14"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-04",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040-04"
+        }
+      ]
+    },
+    {
+      "name": "463Б26-12",
+      "categories": [
+        "c1"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "750",
+          "code": "УР0463Б2600001-00",
+          "qty": 5,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "200",
+          "code": "УР0463Б2600003-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "380",
+          "code": "УР0463Б2600005-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "410",
+          "code": "УР0463Б2600005-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "460",
+          "code": "УР0463Б2600005-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "510",
+          "code": "УР0463Б2600005-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "560",
+          "code": "УР0463Б2600005-04",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "700",
+          "code": "УР0463Б2600007-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "partType": "dno",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600010"
+        },
+        {
+          "partType": "bok",
+          "suffix": "Б26-5002",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600050-02"
+        },
+        {
+          "partType": "torec",
+          "suffix": "Б26-6002",
+          "qty": 2,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600060-02"
+        },
+        {
+          "partType": "kryshka",
+          "suffix": "Б26-00",
+          "qty": 1,
+          "unit": "шт",
+          "thickness": "",
+          "length": "",
+          "code": "УР0463Б2600040"
+        }
+      ]
+    },
+    {
+      "name": "КГ-00",
+      "categories": [
+        "c3"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1800",
+          "code": "УР1010КГ0300004",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "2330",
+          "code": "УР1010КГ0300002",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР1010КГ0300010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "КГ-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300020-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "КТ33-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300030-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "КТ33-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300040-01",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "КТ33-01"
+        }
+      ]
+    },
+    {
+      "name": "КГ-01",
+      "categories": [
+        "c3"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1800",
+          "code": "УР1010КГ0300004",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "2600",
+          "code": "УР1010КГ0300002-01",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР1010КГ0300010-01",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "КГ-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300020-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "КТ33-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300030-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "КТ33-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300040-03",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "КТ33-03"
+        }
+      ]
+    },
+    {
+      "name": "621Б3601-00",
+      "categories": [
+        "c5"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "680",
+          "qty": 6,
+          "unit": "шт",
+          "code": "УР0621Б3601001",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601010-00",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3601-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601030-00",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3601-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601040-00",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3601-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601020-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3601-00"
+        }
+      ]
+    },
+    {
+      "name": "621Б3601-01",
+      "categories": [
+        "c5"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "900",
+          "qty": 6,
+          "unit": "шт",
+          "code": "УР0621Б3601001-01",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601010-01",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3601-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601020-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3601-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601030-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3601-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601040-01",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3601-01"
+        }
+      ]
+    },
+    {
+      "name": "621Б3601-02",
+      "categories": [
+        "c5"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1120",
+          "qty": 6,
+          "unit": "шт",
+          "code": "УР0621Б3601001-02",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601010-02",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3601-02"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601020-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3601-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601030-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3601-02"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601040-02",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3601-02"
+        }
+      ]
+    },
+    {
+      "name": "621Б3601-03",
+      "categories": [
+        "c5"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "420",
+          "qty": 5,
+          "unit": "шт",
+          "code": "УР0621Б3601001-03",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601010-00",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3601-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601050-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3601050-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601060-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б360160-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601040-00",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3601-00"
+        }
+      ]
+    },
+    {
+      "name": "621Б3601-04",
+      "categories": [
+        "c5"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "680",
+          "qty": 6,
+          "unit": "шт",
+          "code": "УР0621Б3601001-00",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601010-03",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3601-03"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601020-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3601-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601030-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3601-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601040-03",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3601-03"
+        }
+      ]
+    },
+    {
+      "name": "621Б3601-05",
+      "categories": [
+        "c5"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "900",
+          "qty": 6,
+          "unit": "шт",
+          "code": "УР0621Б3601001-01",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601010-04",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3601-04"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601020-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3601-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601030-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3601-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601040-04",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3601-04"
+        }
+      ]
+    },
+    {
+      "name": "621Б3601-06",
+      "categories": [
+        "c5"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1120",
+          "qty": 6,
+          "unit": "шт",
+          "code": "УР0621Б3601001-02",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601010-05",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3601-05"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601020-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3601-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601030-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3601-02"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601040-05",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3601-05"
+        }
+      ]
+    },
+    {
+      "name": "621Б3601-07",
+      "categories": [
+        "c5"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "420",
+          "qty": 5,
+          "unit": "шт",
+          "code": "УР0621Б3601001-03",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601010-03",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3601-03"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601050-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3601050-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601060-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б360160-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3601040-03",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3601-03"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-00",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-01",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-02",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-02"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-02"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-03",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-03"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-03"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-04",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-04",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-04"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-04",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-04"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-05",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-05"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-05"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-06",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-06",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-06"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-06",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-06"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-07",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-07",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-07"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-07",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-07"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-08",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-08",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-08"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-08",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-08"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-09",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 30,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-00",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-10",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 27,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-01",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-11",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 24,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-02"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-02"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-12",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 21,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-03"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-03",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-03"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-13",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 18,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-04",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-04"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-04",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-04"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-14",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 15,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-05"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-05",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-05"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-15",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 12,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-06",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-06"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-06",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-06"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-16",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 9,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-07",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-07"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-07",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-07"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "621Б3605-17",
+      "categories": [
+        "c6"
+      ],
+      "materials": [
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 6,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "25",
+          "length": "1250",
+          "code": "УР0621Б3605002",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "621Б3605"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605020-08",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "621Б3605-08"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605030-08",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "621Б3605-08"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УР0621Б3605040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "621Б3605"
+        }
+      ]
+    },
+    {
+      "name": "КТ33-00",
+      "categories": [
+        "c7"
+      ],
+      "materials": [
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300010",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "КТ33-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300020",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "КТ33-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300030",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "КТ33-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "КТ33-00"
+        },
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1600",
+          "code": "УР0463Б5301201",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "2330",
+          "code": "УР0463Б5300202",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        }
+      ]
+    },
+    {
+      "name": "КТ33-01",
+      "categories": [
+        "c7"
+      ],
+      "materials": [
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300010-01",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "КТ33-01"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300020",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "КТ33-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300030",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "КТ33-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300040",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "КТ33-00"
+        },
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "1600",
+          "code": "УР0463Б5301201",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "2330",
+          "code": "УР0463Б5300202",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        }
+      ]
+    },
+    {
+      "name": "КТ33-02",
+      "categories": [
+        "c7"
+      ],
+      "materials": [
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300010-02",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "dno",
+          "suffix": "КТ33-02"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300020",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "bok",
+          "suffix": "КТ33-00"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300030-02",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "torec",
+          "suffix": "КТ33-02"
+        },
+        {
+          "thickness": "",
+          "length": "",
+          "code": "УРПБА0610КТ3300040-02",
+          "qty": 1,
+          "unit": "шт",
+          "partType": "kryshka",
+          "suffix": "КТ33-02"
+        },
+        {
+          "thickness": "25",
+          "length": "1220",
+          "code": "УР0621Б3605002",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "2280",
+          "code": "УР0463Б5301201-01",
+          "qty": 3,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        },
+        {
+          "thickness": "40",
+          "length": "2330",
+          "code": "УР0463Б5300202",
+          "qty": 2,
+          "unit": "шт",
+          "partType": "",
+          "suffix": ""
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "c1",
+      "name": "463Б26",
+      "color": "#ff0000"
+    },
+    {
+      "id": "c2",
+      "name": "401К16",
+      "color": "#38608f"
+    },
+    {
+      "id": "c3",
+      "name": "КГ",
+      "color": "#00bcd4"
+    },
+    {
+      "id": "c4",
+      "name": "401К46",
+      "color": "#e67e22"
+    },
+    {
+      "id": "c5",
+      "name": "621Б3601",
+      "color": "#8e44ad"
+    },
+    {
+      "id": "c6",
+      "name": "621Б3605",
+      "color": "#2ecc71"
+    },
+    {
+      "id": "c7",
+      "name": "КТ33",
+      "color": "#607d8b"
+    }
+  ],
+  "komplekty": [
+    {
+      "id": 1,
+      "n": "463Б33",
+      "c": "УР0463Б3300000",
+      "h": true,
+      "e": [
+        {
+          "s": "00",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "УР0463Б3300060-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "УР0463Б3300070-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": "",
+              "dvp": {
+                "x": 0,
+                "c": "",
+                "l": "",
+                "w": "",
+                "q": 1
+              }
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "УР0463Б3300080-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "УР0463Б3300160-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": [
+            {
+              "c": "УР0463Б5301201-00",
+              "t": "40",
+              "l": "1600",
+              "q": 3
+            },
+            {
+              "c": "УР0463Б5200202",
+              "t": "40",
+              "l": "2330",
+              "q": 1
+            }
+          ]
+        },
+        {
+          "s": "01",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "УР0463Б3300060-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "УР0463Б3300070-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "УР0463Б3300080-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "УР0463Б3300160-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": [
+            {
+              "c": "УР0463Б5301201-01",
+              "t": "40",
+              "l": "1750",
+              "q": 3
+            },
+            {
+              "c": "УР0463Б5200202",
+              "t": "40",
+              "l": "2330",
+              "q": 1
+            }
+          ]
+        }
+      ],
+      "r": [],
+      "ca": "2026-08-21T00:00:00.000Z",
+      "ua": "2026-08-21T15:26:11.057Z"
+    },
+    {
+      "id": 2,
+      "n": "Обр.150",
+      "c": "У04013600150",
+      "h": true,
+      "e": [
+        {
+          "s": "00",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "01",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "02",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "03",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-03",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-03",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-03",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "04",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-04",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "05",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-05",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "06",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-03",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-06",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-03",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "07",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-05",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "08",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-03",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-06",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-03",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "09",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-03",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-07",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-03",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "10",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-04",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-08",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-04",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "11",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-00",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "12",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600160-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600170-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600210-10",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "У04013600200-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        }
+      ],
+      "r": [],
+      "ca": "2026-08-21T00:00:00.000Z",
+      "ua": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "n": "Картон",
+      "c": "УК104111200010",
+      "h": true,
+      "d": {
+        "ДНО": {
+          "x": 0,
+          "n": "",
+          "c": "",
+          "l": "",
+          "w": "",
+          "h": "",
+          "q": 1,
+          "img": ""
+        },
+        "БОК": {
+          "x": 0,
+          "n": "",
+          "c": "",
+          "l": "",
+          "w": "",
+          "h": "",
+          "q": 1,
+          "img": ""
+        },
+        "ТОРЕЦ": {
+          "x": 0,
+          "n": "",
+          "c": "",
+          "l": "",
+          "w": "",
+          "h": "",
+          "q": 1,
+          "img": ""
+        },
+        "КРЫШКА": {
+          "x": 0,
+          "n": "",
+          "c": "",
+          "l": "",
+          "w": "",
+          "h": "",
+          "q": 1,
+          "img": ""
+        }
+      },
+      "e": [
+        {
+          "s": "00",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "Картон Малый",
+              "c": "УК104111200010",
+              "l": "830",
+              "w": "830",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 0,
+              "n": "",
+              "c": "",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 0,
+              "n": "",
+              "c": "",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 0,
+              "n": "",
+              "c": "",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "01",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "Картон Большой",
+              "c": "УК104111200010-01",
+              "l": "1200",
+              "w": "800",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 0,
+              "n": "",
+              "c": "",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "ТОРЕЦ": {
+              "x": 0,
+              "n": "",
+              "c": "",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "КРЫШКА": {
+              "x": 0,
+              "n": "",
+              "c": "",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        }
+      ],
+      "r": [],
+      "ca": "2026-08-25T05:37:09.668Z",
+      "ua": "2026-08-25T05:39:21.811Z"
+    },
+    {
+      "id": 5,
+      "n": "ЯЩИК ЭЛЕКТРОДВИГАТЕЛЬ",
+      "c": "УЭ0463Б1200100",
+      "h": true,
+      "d": {
+        "ДНО": {
+          "x": 0,
+          "n": "",
+          "c": "",
+          "l": "",
+          "w": "",
+          "h": "",
+          "q": 1,
+          "img": ""
+        },
+        "БОК": {
+          "x": 0,
+          "n": "",
+          "c": "",
+          "l": "",
+          "w": "",
+          "h": "",
+          "q": 1,
+          "img": ""
+        },
+        "ТОРЕЦ": {
+          "x": 0,
+          "n": "",
+          "c": "",
+          "l": "",
+          "w": "",
+          "h": "",
+          "q": 1,
+          "img": ""
+        },
+        "КРЫШКА": {
+          "x": 0,
+          "n": "",
+          "c": "",
+          "l": "",
+          "w": "",
+          "h": "",
+          "q": 1,
+          "img": ""
+        }
+      },
+      "e": [
+        {
+          "s": "00",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200110",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200120",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": "",
+              "dvp": {
+                "x": 0,
+                "c": "",
+                "l": "",
+                "w": "",
+                "q": 1
+              }
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200130",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": "",
+              "dvp": {
+                "x": 0,
+                "c": "",
+                "l": "",
+                "w": "",
+                "q": 1
+              }
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200140",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "01",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200110",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200120-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": "",
+              "dvp": {
+                "x": 0,
+                "c": "",
+                "l": "",
+                "w": "",
+                "q": 1
+              }
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200130-01",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": "",
+              "dvp": {
+                "x": 0,
+                "c": "",
+                "l": "",
+                "w": "",
+                "q": 1
+              }
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200140",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        },
+        {
+          "s": "02",
+          "d": {
+            "ДНО": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200110",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            },
+            "БОК": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200120-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": "",
+              "dvp": {
+                "x": 0,
+                "c": "",
+                "l": "",
+                "w": "",
+                "q": 1
+              }
+            },
+            "ТОРЕЦ": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200130-02",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 2,
+              "img": "",
+              "dvp": {
+                "x": 0,
+                "c": "",
+                "l": "",
+                "w": "",
+                "q": 1
+              }
+            },
+            "КРЫШКА": {
+              "x": 1,
+              "n": "",
+              "c": "УЭ0463Б1200140",
+              "l": "",
+              "w": "",
+              "h": "",
+              "q": 1,
+              "img": ""
+            }
+          },
+          "r": []
+        }
+      ],
+      "r": [],
+      "ca": "2026-08-25T06:22:36.918Z",
+      "ua": "2026-08-25T06:31:46.403Z"
+    }
+  ],
+  "komplektyCounter": 5
 }
