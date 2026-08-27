@@ -1,5 +1,5 @@
 {
-  "version": "5.4",
+  "version": "5.4.1",
   "file": "https://raw.githubusercontent.com/sergeibahuser/mcalc/refs/heads/main/RaschetMaterialov.apk",
   "changes": [
     "🔍 Умный поиск\n— Поиск по всем разделам: исполнения, комплекты, материалы\n— Поиск по шифрам, размерам, названиям\n— Мгновенный результат при вводе\n— Подсветка найденного\n— Количество результатов и время поиска",
